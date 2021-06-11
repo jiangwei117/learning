@@ -45,6 +45,9 @@ CCTV5+-体育赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#
 无花果水培根,http://dpv.videocc.net/5fb154de5d/8/5fb154de5dc3d9b6fb14e6eaddf9b8d8_2.mp4?pid=1593221003069X1980203
 厨房垃圾变肥料,http://dpv.videocc.net/5fb154de5d/d/5fb154de5dbffc523a6ff1d2683603cd_2.mp4?pid=1593300324783X1635701
 港台闻,#genre#
+凤凰资讯,http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
+凤凰中文,http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
+凤凰香港,http://zb.ios.ifeng.com:80/live/05QGDOFQJ28/index.m3u8
 凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://93.190.139.36:8278/streams/d/phoenixtv_hd/playlist.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://93.190.139.36:8278/streams/d/phoenixinfo_hd/playlist.m3u8
 凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3#http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
